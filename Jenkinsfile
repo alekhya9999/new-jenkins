@@ -1,6 +1,6 @@
 pipeline {
     agent {
-      label 'centos8'
+      label 'ansible'
 
     }
 
